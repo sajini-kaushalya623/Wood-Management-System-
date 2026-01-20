@@ -470,31 +470,4 @@ npm install
 export NODE_OPTIONS="--max-old-space-size=4096"
 npm run build
 ```
-
----
-
-## 📞 Support
-
-If you encounter any issues:
-
-1. Check the error logs
-2. Verify all dependencies are installed
-3. Ensure environment variables are correct
-4. Check MySQL service is running
-5. Review the troubleshooting section
-
----
-
-## ✅ Installation Complete!
-
-Your Wood Inventory Management System should now be running:
-
-- **Frontend**: http://localhost:3000
-- **Backend API**: http://localhost:3000/api
-- **Database**: MySQL on localhost:3306
-
-Default login:
-- Username: `admin`
-- Password: `admin123`
-
-**Remember to change the default password after first login!**
+#
