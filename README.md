@@ -88,7 +88,7 @@ SOURCE /path/to/database_schema.sql;
 
 ---
 
-## 🔧 Step 2: Backend Setup
+##  Step 2: Backend Setup
 
 ### 2.1 Create Backend Directory
 
@@ -296,7 +296,7 @@ You can now view wood-inventory-frontend in the browser.
 
 ---
 
-## 🎯 Step 4: Testing the System
+##  Step 4: Testing the System
 
 ### 4.1 Create First User
 
@@ -348,7 +348,7 @@ VALUES (
 
 ---
 
-## 🚀 Step 5: Production Deployment
+##  Step 5: Production Deployment
 
 ### 5.1 Backend Deployment
 
@@ -406,7 +406,7 @@ mysql -u wood_admin -p wood_inventory_db < backup_20260117.sql
 
 ---
 
-## 🔒 Step 6: Security Checklist
+##  Step 6: Security Checklist
 
 - [ ] Change default passwords
 - [ ] Update JWT_SECRET to a strong random string
