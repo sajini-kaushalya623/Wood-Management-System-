@@ -421,7 +421,7 @@ mysql -u wood_admin -p wood_inventory_db < backup_20260117.sql
 
 ---
 
-## 🛠️ Troubleshooting
+##  Troubleshooting
 
 ### Database Connection Issues
 
